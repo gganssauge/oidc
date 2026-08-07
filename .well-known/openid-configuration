@@ -1,6 +1,6 @@
 {
   "issuer": "https://gganssauge.github.io/oidc",
-  "jwks_uri": "https://gganssauge.github.io/oidc/openid/v1/jwks",
+  "jwks_uri": "https://gganssauge.github.io/oidc/openid/v1/jwks.json",
   "response_types_supported": [
     "id_token"
   ],
